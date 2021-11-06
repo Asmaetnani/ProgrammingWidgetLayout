@@ -431,6 +431,7 @@ int main(int argc, char *argv[])
 
 ```
 ### Output
+![Calculatrice](https://user-images.githubusercontent.com/93820154/140618703-8c4cd157-5a00-4993-add9-1d1918de73ee.PNG)
 
 ## CONCLUSION
 As a summary we have learned how to work with different types of layouts and widgets and how to manipulate them ,in addition we got familiar with a lot of important concepts and classes .Now we are looking forward to learn how to make those forms functional like the example of the calculator .  
