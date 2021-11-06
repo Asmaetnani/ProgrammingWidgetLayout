@@ -103,7 +103,7 @@ int main(int argc, char *argv[])
 }
 ```
 ### Output
-
+![box](https://user-images.githubusercontent.com/93820154/140615071-98a47f91-e8e0-48ee-89d2-90258cc35ffd.PNG)
 ## Nested Layouts
 In this second application we will learn to analyse the construction of a form and then code it using Netsted layouts.
 ### .header
