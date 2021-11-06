@@ -327,7 +327,7 @@ int main(int argc, char *argv[])
 
 ```
 ### Output
-
+![bug](https://user-images.githubusercontent.com/93820154/140618666-0e2fcab5-7c1b-43ee-ba3b-064cf091a0ec.PNG)
 ## Grid Layout
 In this fourth application we will try to create the interface of a simple calculator.
 ### .header
