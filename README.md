@@ -214,7 +214,7 @@ int main(int argc, char *argv[])
 }
 ```
 ### Output
-
+![Layout](https://user-images.githubusercontent.com/93820154/140618600-80596f21-d1ea-42b7-bcbc-0c72e814b9a4.PNG)
 ## Bug report Form
 Our task in this third application is to create a DialogBox to report a problem.
 ### .header
